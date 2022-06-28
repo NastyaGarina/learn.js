@@ -1,0 +1,16 @@
+/* 1 */
+#ball {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 3 */
+.arrow {
+  position: absolute;
+  height: 60px;
+  border: 1px solid black;
+  font-size: 28px;
+
+  line-height: 60px;
+}
